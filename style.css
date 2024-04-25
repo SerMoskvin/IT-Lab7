@@ -1,0 +1,44 @@
+body{
+  font-size: 20px;
+  font-family:'Times New Roman', Times, serif;
+}
+.foto{
+  width:35%;
+  height:25%;
+}
+.pers{
+  vertical-align: text-top;
+  width:20%;
+  height:10%;
+}
+.wrtbook{
+  width:15%;
+  height:15%;
+}
+h2,h3{
+  text-align: center;
+}
+.contacts{
+  list-style: none;
+}
+.ls{
+  width:10%;
+  height:5%;
+  float:left;
+  padding-right:10px;
+}
+li{
+  font-size: 20px;
+  width:60%;
+}
+.commun{
+  width:15%;
+  height:15%;
+  padding-left: 20px;padding-right: 20px;
+}
+.lang{
+  width:15%;
+  height:15%;
+  padding-left: 20px;padding-right: 20px;
+  float:left;
+}
